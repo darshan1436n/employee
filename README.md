@@ -1,4 +1,8 @@
-# Shiftly (Plain Java, no Maven / no Spring Boot)
+# employee
+
+Assignment 2
+
+## Shiftly (Plain Java, no Maven / no Spring Boot)
 
 ## Requirements
 - JDK 17 or newer
